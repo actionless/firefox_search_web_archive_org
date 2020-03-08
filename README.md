@@ -6,6 +6,8 @@ Good and easy example of firefox search extension using [`chrome_settings_overri
 
 ## installation
 
+install from Mozilla extensions store: https://addons.mozilla.org/en-US/firefox/addon/search_wayback_machine/
+
 
 ## manual build
 
