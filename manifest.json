@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "search_wayback_machine",
-	"version": "0.2",
+	"version": "0.3",
 	"description": "Search Archive.org Wayback Machine",
 
 	"icons": {
@@ -13,7 +13,7 @@
 	  "search_provider": {
 		"name": "Archive.org Wayback Machine",
 		"search_url": "https://web.archive.org/web/*/{searchTerms}",
-		"keyword": "a",
+		"keyword": "wb",
 		"favicon_url": "https://web.archive.org/_static/images/archive.ico"
 	  }
 	}

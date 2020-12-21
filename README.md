@@ -1,5 +1,5 @@
 # search_wayback_machine firefox extension
-Search provider for [Archive.org Wayback Machine](https://web.archive.org/). Bound to `a` letter by default.
+Search provider for [Archive.org Wayback Machine](https://web.archive.org/). Bound to `wb` search keyword by default.
 
 
 Good and easy example of firefox search extension using [`chrome_settings_overrides`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides).
